@@ -18,12 +18,14 @@
 }
 
 .hero-left h2 {
+    display: flex;
     color: #090909;
     font-size: 26px;
     font-weight: 600;
 }
 
 .hero-left p {
+    display: flex;
     color: #171717;
     font-size: 100px;
     font-weight: 700;
